@@ -13,22 +13,7 @@ This project recreates the feel of Spotify’s web interface with sidebar naviga
 🎼 Realistic bottom music player controls
 🎨 Clean layout & hover effects
 💻 Built using pure HTML + CSS
-
  
-📂 Project Structure:
-
-index.html
-css/
- └── style.css
-assets/
- ├── images/
- └── icons/
-
-🚀 How to Run:
-
-1️⃣ Download or clone the repository
-2️⃣ Open index.html in your browser
-
 💡 Tech Used:
 
 HTML
