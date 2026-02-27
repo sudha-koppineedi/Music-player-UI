@@ -1,4 +1,4 @@
-# 🎵 Spotify Web Player Clone
+#  Spotify Web Player Clone! 🎵💚
 
 A responsive Spotify-inspired web player UI built using **HTML5** and **CSS3**.  
 This project recreates the look and layout of Spotify’s web interface for learning and practice purposes.
