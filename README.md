@@ -6,8 +6,7 @@ This project recreates the look and layout of Spotify’s web interface for lear
 
 ## 📸 Preview
 
-<!-- Add your screenshot below -->
-<!-- Example: ![Preview](./assets/images/preview.png) -->
+![Spotify Clone Preview](./sp-1.png)
 
 
 ## ✨ Features
